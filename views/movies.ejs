@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--Head-->
+<%- include('./partials/head.ejs') %>
+
+  <body>
+    <!--navigation bar-->
+  <%- include('./partials/nav.ejs') %>
+
+    <!--Main content-->
+    <div>
+      <a class="btn btn-outline-primary m-2 mt-3" href="/movie/add_movies">Add Movie</a>
+    </div>
+    <div class="container-fluid d-flex flex-wrap p-2" >
+          <% if (movies){ %> <% for(let i = 0; i < movies.length; i++){%>
+            <div class="card" style="width: 18rem; margin: 5% 5%;">
+              <img src="<%= movies[i].image %>" class="card-img-top img-fluid rounded" alt="movies list">
+              <div class="card-body">
+                <h5 class="card-title"><%= movies[i].title %></h5>
+                <p class="card-text"><%= movies[i].description %></p>
+                <p class="card-text"><%= movies[i].price %></p>
+                <a href="/movie/update-movie/<%= movies[i].id %>" class="btn btn-dark">Edit</a>
+                <a href="/movie/delete-movie/<%= movies[i].id %>" class="btn btn-danger">Delete</a>
+              </div>
+            </div>
+          <% } %> <% } %>
+    </div>
+    <%- include('./partials/footer.ejs') %>
+  </body>
+</html>

@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Anikulapo",
+    "price": "2500",
+    "description": "A greedy man meets his demise",
+    "image": "https://thefilmconversation.com/wp-content/uploads/2022/08/Anikulapo-film.jpg",
+    "id": "ec10f10e-7c01-4ab7-b671-59ba17f72d9c"
+  },
+  {
+    "title": "Avatar",
+    "price": "2000",
+    "description": "The last airbender vanished when he was needed most",
+    "image": "https://ksr-ugc.imgix.net/assets/034/322/604/633821b3dd5a74c955ab8500730436cd_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1627318207&auto=format&frame=1&q=92&s=bf1a76c3d7537afd9647c19db073382a",
+    "id": "ed43f431-22bb-4168-98d8-ffadb89ef392"
+  },
+  {
+    "title": "Legend of the seeker",
+    "price": "2000",
+    "description": "The chosen one brings balance to the real world and the underworld",
+    "image": "https://cdn1.edgedatg.com/aws/v2/abc/LegendoftheSeeker/showimages/0eb4fafbb4c88321b7138e28fcf51b9a/1600x900-Q90_0eb4fafbb4c88321b7138e28fcf51b9a.jpg",
+    "id": "babef275-f718-4e90-a58a-f263d82a2e88"
+  },
+  {
+    "title": "Inventing Anna",
+    "price": "3000",
+    "description": "young lady tried to fake it till she made it but was cut shut on the way",
+    "image": "https://addicted2success.com/wp-content/uploads/2022/02/Important-Lessons-to-Be-Learned-From-Anna-Delvey.jpg",
+    "id": "efddd74f-1970-4850-9e65-5a50eefabc57"
+  },
+  {
+    "title": "Blood sisters",
+    "price": "2000",
+    "description": "Young lady finds herself in an abusive relationship and mistakenly killed the groom on their wedding day",
+    "image": "https://thefilmconversation.com/wp-content/uploads/2022/05/Blood-Sisters-Nancy.jpg",
+    "id": "42181865-0600-4128-80d7-0401ebdb0935"
+  },
+  {
+    "title": "prison break",
+    "price": "2000",
+    "description": "Young man breaks his elder brother from prison with his intelligent IQ and determination",
+    "image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/129CC5801019296FD4A8FD8AFEBC6A9437CF8300BE21AC9F5ED79B5B81BD5C84/scale?width=1200&aspectRatio=1.78&format=jpeg",
+    "id": "79584799-e9af-45da-8308-95fb9fd72699"
+  },
+  {
+    "title": "Black Adam",
+    "price": "5000",
+    "description": "Champion awakes after 5000 years to save his people from slavery",
+    "image": "https://www.blackadammovie.net/images/share.jpg",
+    "id": "60a6f028-f855-4788-b02b-0551318af807"
+  },
+  {
+    "title": "The woman king",
+    "price": "5000",
+    "description": "women warriors fights hard to liberate the blacks from slavery",
+    "image": "https://i0.wp.com/farm66.staticflickr.com/65535/52381527799_78977e8dfd_b.jpg",
+    "id": "db246d76-6a1f-41b9-b21e-5bc268e0be37"
+  },
+  {
+    "title": "From scratch",
+    "price": "2000",
+    "description": "True life story that showcase love,family and friendship",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe1W5eUp1Omvkwo6LClo_Aehgt4NQzuBqfOg&usqp=CAU",
+    "id": "4a6a1aaf-9ad0-41ea-a4b2-6769ad074dea"
+  },
+  {
+    "title": "Supergirl",
+    "price": "5000",
+    "description": "This action adventures series is based on the DC comics",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn6Be-SbdLO__2O7zpRh4NFq6XuRcy_hqVdw&usqp=CAU",
+    "id": "686ff887-c94c-4759-8dd7-c0c9b8da9d8b"
+  },
+  {
+    "title": "The school for good and evil",
+    "price": "3500",
+    "description": "Welcome to the school where the good become heroes and the evil become villians",
+    "image": "https://i0.wp.com/www.murphysmultiverse.com/wp-content/uploads/2022/10/Review_School_for_Good_and_Evil.jpg?fit=1024%2C576&ssl=1",
+    "id": "14268675-01d9-4400-a020-aa3d1bb52a1c"
+  },
+  {
+    "title": "DYNASTY",
+    "price": "1000",
+    "description": "Two affluent families caught in an outrageous feud for power,prestige and love",
+    "image": "https://static.next-episode.net/tv-shows-images/huge/dynasty.jpg",
+    "id": "57dff1a3-b753-4cdd-afd5-158e0309beb3"
+  },
+  {
+    "title": "The witcher",
+    "price": "2500",
+    "description": "This action fantasy series is based on the books  and short stories by Andrzej sapkowski",
+    "image": "https://ntvb.tmsimg.com/assets/p17580186_b_h8_aa.jpg?w=960&h=540",
+    "id": "e3a63bc3-cef2-49fb-83ce-610281eb176e"
+  },
+  {
+    "title": "Lucifer",
+    "price": "5000",
+    "description": "Bored with being the lord of hell,the devil relocates to los angeles where he opens a club",
+    "image": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/12/best-lucifer-episodes-ranked.jpg",
+    "id": "6bfab67a-637c-40d0-bf9e-a13f2451c703"
+  },
+  {
+    "title": "Blood and water",
+    "price": "2500",
+    "description": "Cape town teens sets out to prove wether a swimming star is her sister",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrD3sdlOkebHrG96OWeh2P8sftipnsX5ltxw&usqp=CAU",
+    "id": "2ba675d3-7e87-44b6-8a0a-758c43f4602e"
+  },
+  {
+    "title": "Alchemy of souls",
+    "price": "3500",
+    "description": "a powerful sorceress in a blind womans body encounters a man who wants to help her change her destiny",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCE71s240H2AlY0EmyNntk44-L7aRnD0zi0Q&usqp=CAU",
+    "id": "7eeb020b-e1d9-4bd6-9bcf-a06a38c6fbcb"
+  },
+  {
+    "title": "Young Famous & African",
+    "price": "2000",
+    "description": "African entertainment icons appear to have it all.But love can be elusive and friends fickle in reality",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/3/2022/03/Young-Famous-African-cast-858d6e3.jpg",
+    "id": "803d0a8b-a579-4e74-b370-8c00aada4f0b"
+  },
+  {
+    "title": "The Good Nurse",
+    "price": "3500",
+    "description": "A nurse suspects her colleague might be responsible for a series of patients deaths.",
+    "image": "https://scriptmag.com/.image/t_share/MTkzMDk2MDMwMjA2NTY3NjQ1/the-good-nurse-krysty-wilson-cairns-netflix.png",
+    "id": "cdf3c232-1f00-493d-81c0-931790931ac4"
+  }
+]
